@@ -2,6 +2,9 @@
 
 Bangood is an E-commerce website.
 
+## Live Demo
+- https://banggood-site-clone.netlify.app/
+
 ## Installation
 
 Use the package manager [npm](https://docs.npmjs.com/cli/v6/commands/npm-install) to install the node module files.
